@@ -1,5 +1,6 @@
 module github.com/controlplaneio/kubesec/v2
 
+
 go 1.17
 
 require (
